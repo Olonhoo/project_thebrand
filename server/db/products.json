@@ -1,0 +1,44 @@
+[
+  {
+    "id_product": 1,
+    "imgProduct": "img/featured_1.jpg",
+    "product_name": "Awesome Product",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 100
+  },
+  {
+    "id_product": 2,
+    "imgProduct": "img/featured_2.jpg",
+    "product_name": "Another Product",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 500
+  },
+  {
+    "id_product": 3,
+    "imgProduct": "img/featured_3.jpg",
+    "product_name": "Something New",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "price": 1000
+  },
+  {
+    "id_product": 4,
+    "imgProduct": "img/featured_4.jpg",
+    "product_name": "Dummy Thing",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 1500
+  },
+  {
+    "id_product": 5,
+    "imgProduct": "img/featured_5.jpg",
+    "product_name": "Product Example",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 300
+  },
+  {
+    "id_product": 6,
+    "imgProduct": "img/featured_6.jpg",
+    "product_name": "Another One",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur.",
+    "price": 2700
+  }
+]
