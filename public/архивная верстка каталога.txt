@@ -1,0 +1,190 @@
+<div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/featured_1.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 1</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">79.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_article2.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 2</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">65.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/featured_3.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 3</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">42.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/featured_4.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 4</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">35.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_article5.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 5</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">75.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/featured_6.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 6</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">85.00</span></p>
+                </div>
+            </div>
+            <div class="article article_mobile">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_mobile.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 7</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">100.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_article7.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 8</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">46.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_article8.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 9</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">58.00</span></p>
+                </div>
+            </div>
+            <div class="article">
+                <div class="article_overlay">
+                    <button type="button" class="article_overlay_add">
+                        <img class="article_overlay_add_click" src="img/cart_add.svg" alt="add">
+                        <span class="article_overlay_add_click">Add to Cart</span>
+                    </button>
+                </div>
+                <img src="img/catalog_article9.jpg" alt="">
+                <div class="featured_name">
+                    <p class="name_article">ELLERY X M'O CAPSULE 10</p>
+                </div>
+                <div class="featured_data">
+                    <p class="pg_article">Known for her sculptural takes on traditional tailoring, Australian arbiter of
+                        cool Kym Ellery teams up with Moda Operandi.</p>
+                </div>
+                <div class="featured_price">
+                    <p class="price_article">$<span class="featured_priceValue">60.00</span></p>
+                </div>
+            </div>
